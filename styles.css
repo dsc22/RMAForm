@@ -103,7 +103,7 @@ button:hover {
 
 /* Additional styles for reason input */
 input[name="reason[]"] {
-    width: 150px;
+    width: 100px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -112,7 +112,7 @@ input[name="reason[]"] {
 }
 
 input[name="item[]"] {
-    width: 80px;
+    width: 65px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
