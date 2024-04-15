@@ -103,7 +103,7 @@ button:hover {
 
 /* Additional styles for reason input */
 input[name="reason[]"] {
-    width: 100px;
+    width: 80px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -112,7 +112,7 @@ input[name="reason[]"] {
 }
 
 input[name="item[]"] {
-    width: 65px;
+    width: 60px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -143,5 +143,5 @@ input[type="submit"]:hover {
 }
 
 input[name="order_number[]"] {
-    width: 65px; /* Set width of Order # input to match the item input */
+    width: 40px; /* Set width of Order # input to match the item input */
 }
